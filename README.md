@@ -1,7 +1,7 @@
-# 代注册全新谷歌Gmail邮箱帐号（绑定自己的手机号、支持自定义邮箱前缀）
+# 代注册全新谷歌Gmail邮箱帐号（全新、非成品号）
 联系方式：❤[imichaelhere](https://github.com/michaelzone/cantonfair/blob/main/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg) | [公众号：外贸赶路人](https://mp.weixin.qq.com/s/hy1f-k0iwrSMq-JtdB5SMg)
 
-辅助解决WhatsApp收不到验证码问题 网上的教程五花八门，但是，问题情况更是千变万化。
+绑定自己的手机号、支持自定义邮箱前缀
 
 终究有部分外贸人始终收不到验证码，无法解决WhatsApp登陆问题。
 
